@@ -44,8 +44,11 @@ nav ul li a:hover{
     background: chocolate;
     color: white;
 }
+.container-logo{
+    display: flex;
+    align-items: center;}
 .logo{
-    width: 230px;
+    width: 180px;
     margin-top: 0px;
     margin-bottom: 0;
 }
