@@ -45,7 +45,8 @@ nav ul li a:hover{
 }
 .container-logo{
     display: flex;
-    align-items: center;}
+    align-items: center;
+}
 .logo{
     width: 180px;
     margin-top: 0px;
